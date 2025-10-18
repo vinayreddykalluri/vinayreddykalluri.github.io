@@ -12,7 +12,7 @@ We craft modern, AI-powered and emotion-driven mobile experiences designed to co
 
 ### 💬 Connect
 
-[Play Store Developer Page](https://play.google.com/store/apps/dev?id=YOUR_DEV_ID)  
+[Play Store Developer Page](https://play.google.com/store/apps/dev?id=5669286937377429055)  
 [Website](https://vinayreddykalluri.github.io)
 
 ---
